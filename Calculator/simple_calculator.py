@@ -5,9 +5,10 @@ def calculator():
     print("2.Substraction")
     print("3.Multiplication")
     print("4.Division")
+    print("5.Exponential")
     print()
 
-    choice = int(input("Select choice (1/2/3/4): "))
+    choice = int(input("Select choice (1/2/3/4/5): "))
     print()
 
     num1 = float(input("Enter the first number: "))
@@ -22,6 +23,8 @@ def calculator():
         print(f"Product of {num1} and {num2} is: {num1*num2}")
     elif choice==4:
         print(f"Division of {num1} and {num2} is: {num1/num2}")
+    elif choice==5:
+        print(f"Exponential of {num1} and {num2} is: {num1**num2}")
     else:
         print("Invalid choice!!!")
 
