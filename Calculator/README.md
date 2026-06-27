@@ -11,6 +11,8 @@ A simple command-line calculator built with Python that performs basic arithmeti
 * Multiplication
 * Division
 * Exponential
+* Floor division
+* Modulus
 * Easy-to-use menu
 * Handles user input
 
@@ -50,9 +52,11 @@ Select operation:
 2. Subtraction
 3. Multiplication
 4. Division
-5.Exponential
+5. Exponential
+6. Floor division
+7. Modulus
 
-Select choice (1/2/3/4/5): 1
+Select choice (1/2/3/4/5/6/7): 1
 
 Enter the first number: 20
 Enter the second number: 30
