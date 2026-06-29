@@ -1,8 +1,8 @@
 import random
 
-subjects = ["Virat kohli" , "Prime minister narendra modi" , "Rocking star yash" , "Elon musk" , "A bus driver from banglore"]
-actions = ["smashes" , "launches" , "shoots" , "prepares" , "drives" , "declares" , "writes" , "eats"]
-places_or_things = ["a century" , "a missile" , "inside the parliment" , "a rocket" , "trees" , "on the sky" , "in the water" ]
+subjects = ["Virat kohli" , "Prime minister narendra modi" , "Rocking star yash" , "Elon musk" , "A bus driver from banglore","A common man" , "A indian dog"]
+actions = ["smashes" , "launches" , "shoots" , "prepares" , "drives" , "declares" , "writes" , "eats" , "swims" , "dances"]
+places_or_things = ["a century" , "a missile" , "inside the parliment" , "a rocket" , "trees" , "on the sky" , "in the water" , "in a box" , "inside the court" ]
 
 while True:
     subject = random.choice(subjects)
