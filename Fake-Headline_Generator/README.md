@@ -44,7 +44,7 @@ python fake_headline_generator.py
 BREAKING NEWS:
 Alien discovers secret pizza factory!
 
---------------------
+-----------------------
 
 Do you want another headline? (yes/no):
 ```
