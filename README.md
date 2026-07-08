@@ -12,9 +12,11 @@
 
 Welcome to my **Python Projects** repository!
 
-This repository contains a collection of Python projects that I build as part of my learning journey. Each project focuses on strengthening Python fundamentals while applying concepts to practical applications.
+This repository documents my journey of learning Python through hands-on projects. Every project helps me strengthen Python fundamentals, improve problem-solving skills, and apply programming concepts to real-world scenarios.
 
-My goal is to consistently build projects, improve my coding skills, and create a strong GitHub portfolio.
+As I continue learning, I regularly add new projects covering Python fundamentals, object-oriented programming, file handling, decorators, automation, and eventually AI/ML.
+
+My goal is to build a strong GitHub portfolio while preparing for internships and software engineering roles.
 
 ---
 
@@ -24,13 +26,12 @@ My goal is to consistently build projects, improve my coding skills, and create 
 python-projects/
 │
 ├── Calculator/
-│   ├── README.md
-│   └── simple_calculator.py
-│
 ├── Fake-Headline-Generator/
-│   ├── README.md
-│   └── fake_headline_generator.py
-│
+├── Password-Generator/
+├── Banking-System/
+├── Grocery-Store/
+├── Student-Report-Card/
+├── Library-Management-System/
 ├── README.md
 └── LICENSE
 ```
@@ -39,10 +40,42 @@ python-projects/
 
 # 🚀 Projects
 
-| Project                    | Description                                        | Status      |
-| -------------------------- | -------------------------------------------------- | ----------- |
-| 🧮 Calculator              | Performs basic arithmetic operations using Python. | ✅ Completed |
-| 📰 Fake Headline Generator | Generates random fake breaking news headlines.     | ✅ Completed |
+| Project                      | Description                                                               | Status      |
+| ---------------------------- | ------------------------------------------------------------------------- | ----------- |
+| 🧮 Calculator                | Performs basic arithmetic operations.                                     | ✅ Completed |
+| 📰 Fake Headline Generator   | Generates random fake news headlines.                                     | ✅ Completed |
+| 🔐 Password Generator        | Creates secure random passwords.                                          | ✅ Completed |
+| 🏦 Banking System            | Demonstrates OOP concepts like encapsulation using a banking application. | ✅ Completed |
+| 🛒 Grocery Store             | Console-based grocery shopping application.                               | ✅ Completed |
+| 🎓 Student Report Card       | Calculates average marks and manages student records using classes.       | ✅ Completed |
+| 📚 Library Management System | Manage books using object-oriented programming concepts.                  | ✅ Completed |
+
+---
+
+# 🧠 Python Concepts Practiced
+
+Throughout these projects, I've worked with:
+
+* Variables & Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Functions
+* Lists, Tuples, Dictionaries & Sets
+* File Handling
+* Exception Handling
+* Object-Oriented Programming (OOP)
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* Modules & Packages
+* Decorators
+* First-Class Functions
+* Logging
+* `map()`, `filter()`, and `reduce()`
+* Random Module
+* String Module
 
 ---
 
@@ -62,7 +95,9 @@ This repository helps me:
 * Practice Python programming
 * Improve problem-solving skills
 * Build real-world mini projects
-* Learn clean coding practices
+* Learn object-oriented programming
+* Write cleaner and reusable code
+* Explore Python's standard library
 * Strengthen my GitHub portfolio
 * Prepare for internships and software engineering roles
 
@@ -70,14 +105,10 @@ This repository helps me:
 
 # 📈 Upcoming Projects
 
-I regularly add new projects to this repository.
+Projects I'm planning to build next:
 
-Planned projects include:
-
-* 🎮 Number Guessing Game
-* 🔐 Password Generator
 * ✂️ Rock Paper Scissors
-* ✅ To-Do List Application
+* ✅ To-Do List
 * 📝 Quiz Application
 * 📒 Contact Book
 * 💰 Expense Tracker
@@ -85,6 +116,7 @@ Planned projects include:
 * 📂 File Organizer
 * 🔑 Password Manager
 * 🤖 Automation Scripts
+* 🌐 Web Scraper
 * 📊 Data Analysis Projects
 * 🧠 AI/ML Mini Projects
 
@@ -98,38 +130,38 @@ Clone the repository:
 git clone https://github.com/harshithgowdaar/python-projects.git
 ```
 
-Go into the repository:
+Navigate into the repository:
 
 ```bash
 cd python-projects
 ```
 
-Open any project folder and follow the instructions in that project's `README.md`.
+Open any project folder and follow its README for instructions.
 
 Example:
 
 ```text
-Calculator/
+Password-Generator/
 └── README.md
 ```
 
 Each project contains:
 
-* Project description
+* Project Description
 * Features
-* Concepts used
-* How to run
-* Sample output
+* Python Concepts Used
+* How to Run
+* Sample Output
 
 ---
 
-# 📌 Project Progress
+# 📌 Repository Progress
 
 | Total Projects | Completed | In Progress |
 | -------------: | --------: | ----------: |
-|              2 |         2 |           0 |
+|              7 |         7 |           0 |
 
-*(This table will be updated as new projects are added.)*
+> This table will continue to grow as I build more projects.
 
 ---
 
@@ -137,25 +169,27 @@ Each project contains:
 
 This repository is primarily for learning and personal development. Suggestions, improvements, and feedback are always welcome.
 
+If you have ideas for beginner-friendly Python projects, feel free to share them!
+
 ---
 
 # 👨‍💻 Author
 
-**Harshith Gowda A R**
+## Harshith Gowda A R
 
-Computer Science Engineering Student
+**Computer Science Engineering Student**
 
-**Interests**
+### Interests
 
 * Python
 * Artificial Intelligence & Machine Learning
 * Software Development
 * Open Source
 
-**GitHub:**
+### GitHub
+
 https://github.com/harshithgowdaar
 
 ---
 
 ⭐ If you find this repository helpful or interesting, consider giving it a **Star**!
-
